@@ -35,7 +35,6 @@ Other tool - converting .py to .exe using pyinstaller (Docs:- https://pyinstalle
              canva - used to make icon , background image.
 
 ----------------------------Source code available-----------------------------
-► App Website - https://arwazkhan189.github.io/YTV-Downloader/
 ► Github repository link - https://github.com/arwazkhan189/YTV-Downloader
 ------------------Follow Me On Social Media-----------------------------------
 ► Website  - https://arwazkhan.me/
