@@ -1,5 +1,13 @@
 # YTV-Downloader
 
+# The new version will be coming on this Sunday(23/05/2021). 
+## Updated features includes -
+- Now you can download the entire playlist.
+- Download in any resolution 144p to 1080p or more.
+- You can also download audio of that video.
+- Download your video in any location on the computer.
+- and many more...
+
 ### App-Description
 <p align="center">
   YTV-Downloader is a Desktop application to download the YouTube videos . Developed using  python  modules - tkinter and pytube.   
