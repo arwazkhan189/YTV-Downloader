@@ -1,6 +1,6 @@
 # YTV-Downloader
 
-# The new version will be coming on this Sunday(23/05/2021). 
+# The new version will be coming on later. 
 ## Updated features includes -
 - Now you can download the entire playlist.
 - Download in any resolution 144p to 1080p or more.
