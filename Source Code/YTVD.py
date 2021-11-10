@@ -12,7 +12,7 @@ Other tool - converting .py to .exe using pyinstaller (Docs:- https://pyinstalle
 ► App Website - https://arwazkhan189.github.io/YTV-Downloader/
 ► Github repository link - https://github.com/arwazkhan189/YTV-Downloader
 ------------------Follow Me On Social Media-----------------------------------
-► Website  - https://arwazkhan.me/
+► Website  - https://arwazkhan189.github.io/
 ► Facebook - https://www.facebook.com/arwazkhan189
 ► Instagram - https://instagram.com/iamarwaz
 ► Twitter - https://twitter.com/arwazkhan189
